@@ -1,4 +1,5 @@
 Housing Prices Prediction with Python
+
 This project applies practical exploratory data analysis (EDA) techniques on a housing 
 prices dataset using Python's libraries like Seaborn and Matplotlib to visualize data.
 Machine learning techniques are employed to predict housing prices.
